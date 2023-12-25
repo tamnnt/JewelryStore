@@ -16,8 +16,8 @@
         <!--tbody-->
         <tbody>
             <tr>
-                <td colspan="4">TRAN THANH | Tên ngân hàng: SACOMBANK | Số tài khoảng 9704 0365 4618 2928</td>
-                <td colspan="4">Số tài khoảng 9704 0365 4618 2928 | Mobile No: 0836730193 | Name: TRAN THANH</td>
+                <td colspan="4">NGO NGUYEN THANH TAM <br> Tên ngân hàng: VIETCOMBANK <br>Số tài khoản: 9974948710</td>
+                <td colspan="4">Số tài khoảng 9704 0365 4618 2928 <br> Mobile No: 0974948710 <br> Name: NGO NGUYEN THANH TAM</td>
             </tr>
         </tbody>
 

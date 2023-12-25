@@ -165,14 +165,14 @@
                         </figure>
                     </div>
                 </div>
-                <div class="doubleUp__container">
+                <div class="doubleUp__container">    
                     <section class="quickInfo m-02 m-02--light-03">
                         <div class="quickInfo__wrapper">
                             <div class="quickInfo__heading">
                                 <h2 class="quickInfo__title">THIẾT KẾ ĐỘC QUYỀN TỪ HÀN QUỐC</h2>
                             </div>
                             <div class="quickInfo__content">
-                                <p class="quickInfo__description">Lấy tầm nhìn trở thành “Nhà bán lẻ trang sức dẫn đầu xu hướng", trang sức Huy Thanh mang phong cách trẻ trung, hiện đại, liên tục cập nhật những xu hướng mới từ Hàn Quốc. Ba dòng sản phẩm chủ lực của Jewelry Store gồm có: Nhẫn cưới, Trang sức cưới và Trang sức hiện đại cho nữ giới. Khách hàng sở hữu trang sức vàng từ Jewelry Store đồng thời sở hữu xu hướng mới nhất đến từ thế giới, được thể hiện bằng sản phẩm mang tính sáng tạo, đột phá trong thiết kế và công nghệ chế tác.</p>
+                                <p class="quickInfo__description">Lấy tầm nhìn trở thành “Nhà bán lẻ trang sức dẫn đầu xu hướng", trang sức Jewelry Store mang phong cách trẻ trung, hiện đại, liên tục cập nhật những xu hướng mới từ Hàn Quốc. Ba dòng sản phẩm chủ lực của Jewelry Store gồm có: Nhẫn cưới, Trang sức cưới và Trang sức hiện đại cho nữ giới. Khách hàng sở hữu trang sức vàng từ Jewelry Store đồng thời sở hữu xu hướng mới nhất đến từ thế giới, được thể hiện bằng sản phẩm mang tính sáng tạo, đột phá trong thiết kế và công nghệ chế tác.</p>
                             </div>
                         </div>
                     </section>
@@ -236,7 +236,7 @@
                                 <h2 class="quickInfo__title">DỊCH VỤ HẬU MÃI TẬN TÂM</h2>
                             </div>
                             <div class="quickInfo__content">
-                                <p class="quickInfo__description">Mỗi sản phẩm, giao dịch tại Huy Thanh đều cam kết minh bạch, đầy đủ hoá đơn cho toàn bộ giao dịch. Huy Thanh mang đến dịch vụ chăm sóc và hậu mãi trọn đời với những đặc quyền hấp dẫn để khách hàng có thể có trải nghiệm mua sắm trọn vẹn nhất.</p>
+                                <p class="quickInfo__description">Mỗi sản phẩm, giao dịch tại Jewelry Store đều cam kết minh bạch, đầy đủ hoá đơn cho toàn bộ giao dịch. Jewelry Store mang đến dịch vụ chăm sóc và hậu mãi trọn đời với những đặc quyền hấp dẫn để khách hàng có thể có trải nghiệm mua sắm trọn vẹn nhất.</p>
                             </div>
                         </div>
                     </section>

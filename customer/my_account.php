@@ -57,7 +57,7 @@
         
     <nav>
 
-        <a href="../index.php" class="mainLogo"> <img src="assets/logo.png" alt=""></a>
+        <a href="../index.php" class="mainLogo"> <img src="assets/logojs.png" alt="logo"></a>
         <div class="menu">
             <div class="menulinks">
                 <a href="../index.php" class="menuLink">Trang chủ</a>
