@@ -22,7 +22,7 @@
 
         </button>
 
-        <a href="index.php?dashboard" class="navbar-brand" style="font-size: 36px">Quản Lý Sản Phẩm</a>
+        <a href="index.php?dashboard" class="navbar-brand" style="font-size: 36px">Dashboard</a>
 
     </div>
 
