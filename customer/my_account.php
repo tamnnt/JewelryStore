@@ -219,10 +219,10 @@
                         <div class="panel__link">Đổi Mật Khẩu</div>
                     </a>
 
-                    <a href="my_account.php?delete_account" class="panel">
+                    <!-- <a href="my_account.php?delete_account" class="panel">
                         <img src="assets/icon-xoa-tai-khoan.svg" alt="">
                         <div class="panel__link">Xoá Tài Khoản</div>
-                    </a>
+                    </a> -->
 
                     <a href="logout.php" class="panel">
                         <img src="assets/icon-dang-xuat.svg" alt="">
